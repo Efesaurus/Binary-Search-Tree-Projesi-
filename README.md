@@ -7,16 +7,17 @@
 
                      
       
-root=7 için 
-			 7
-     /   \
-    5     8
-   / \     \
-  1   6     9  
- /  \
-0    3
-    /  \
-    2   4                     
+root=7 için   
+                      
+                        7
+                      /   \
+                     5     8
+                    / \     \
+                   1   6     9  
+                  /  \
+                 0    3
+                     /  \
+                     2   4                     
     
     
-    https://app.patika.dev/efekaan
+     https://app.patika.dev/efekaan
